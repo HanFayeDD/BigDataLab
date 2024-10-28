@@ -1,0 +1,5 @@
+pandas
+numpy
+matplotlib 
+missingno
+scikit-learn==1.3.1
